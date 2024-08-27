@@ -1,6 +1,6 @@
 # Portfolio Project
 
-Welcome to my portfolio project repository! This project is a showcase of my skills and experience using HTML, CSS, and JavaScript. Feel free to explore, and don't hesitate to reach out if you have any questions.
+Welcome to my portfolio project repository! This project is a showcase of my skills and experience using HTML, CSS, and JavaScript. Feel free to explore,  and don't hesitate to reach out if you have any questions.
 
 ## **Table of Contents**
 
